@@ -33,6 +33,7 @@ PRINT :print all data stored in t\*ttee,PRINT FROM [number1] TO [number2] ,print
 \*.del is dummy file for test.
 ```
 key-value键值对是随机生成的，有100W条有序/无序的，1000万条有序/无序的。
+key-value生成的程序[key_value_generator](https://github.com/slarsar/main_memory_database/tree/master/key_value_generate)
 ```
 ## segmentfault博文链接
 
