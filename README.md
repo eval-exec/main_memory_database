@@ -34,6 +34,8 @@ PRINT :print all data stored in t\*ttee,PRINT FROM [number1] TO [number2] ,print
 ```
 key-value键值对是随机生成的，有100W条有序/无序的，1000万条有序/无序的。
 ```
+key-value生成的程序[key_value_generator](https://github.com/slarsar/main_memory_database/tree/master/key_value_generate)
+
 ## segmentfault博文链接
 
 * [T-Tree、T*-Tree的理解与简单内存数据库的实现 V1.0](https://segmentfault.com/a/1190000018502294?share_user=1030000018424139)-这里写了关于内存数据库最初版本的详细解释。
